@@ -66,3 +66,22 @@ Result: The imported project is listed in the Project Explorer view and files ar
 **From IDE**
 
 After being done with the downloading and opening project, select **Build Project** option from **Build** menu. After compilation process, user can run NER-CPP.
+
+Detailed Description
+============
+
+## ParseTree
+
+In order to find the named entities in a parse tree, one uses autoNER method of the TreeAutoNER class.
+
+	ParseTreeDrawable parseTree = ...
+	TurkishTreeAutoNER turkishNer = new TurkishTreeAutoNER(ViewLayerType.Turkish);
+	turkishNer.autoNER(parseTree);
+
+## Sentence
+
+In order to find the named entities in a simple sentence, one uses autoNER method of the SentenceAutoNER class.
+
+	AnnotatedSentence sentence = ...
+	TurkishSentenceAutoNER turkishNer = new TurkishSentenceAutoNER();
+	turkishNer.autoNER(sentence);
