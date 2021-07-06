@@ -5,7 +5,7 @@
 #ifndef PROPBANK_ARGUMENTTYPE_H
 #define PROPBANK_ARGUMENTTYPE_H
 #include <string>
-
+#include <algorithm>
 using namespace std;
 
 /**
