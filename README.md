@@ -68,6 +68,12 @@ To check if you have compatible C++ Compiler installed,
 * Open CLion IDE 
 * Preferences >Build,Execution,Deployment > Toolchain  
 
+### CPP for windows
+Visual studio 2019
+* open V2019
+* File->open->Folder, specify the folder of NER_CPP (clone from github.com）
+* Build->build ALL
+
 ### Git
 
 Install the [latest version of Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
