@@ -51,6 +51,10 @@ Simple Web Interface
 ============
 [Link 1](http://104.247.163.162/nlptoolkit/turkish-named-entity-recognition.html) [Link 2](https://starlangsoftware.github.io/nlptoolkit-web-simple/turkish-named-entity-recognition.html)
 
+Annotated Datasets
+============
+[Penn-Treebank](http://104.247.163.162/nlptoolkit/turkish-ner1.html)
+
 Video Lectures
 ============
 
