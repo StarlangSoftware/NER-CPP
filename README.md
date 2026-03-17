@@ -47,6 +47,10 @@ After annotating sentences, you can use [DataGenerator](https://github.com/starl
 
 After generating the classification dataset as above, one can use the [Classification](https://github.com/starlangsoftware/Classification-CPP) package to generate machine learning models for the Named Entity Recognition task.
 
+Simple Web Interface
+============
+[Link 1](http://104.247.163.162/nlptoolkit/turkish-named-entity-recognition.html) [Link 2](https://starlangsoftware.github.io/nlptoolkit-web-simple/turkish-named-entity-recognition.html)
+
 Video Lectures
 ============
 
